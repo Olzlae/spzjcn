@@ -1,1 +1,1 @@
-# spzjcn
+{ "open":true}
