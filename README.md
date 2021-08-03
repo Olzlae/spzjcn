@@ -1,1 +1,1 @@
-{"open":true, "url":"https://showlive3.net/?code=P98K4"}
+{"open":false, "url":"https://showlive3.net/?code=P98K4"}
