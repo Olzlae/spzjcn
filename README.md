@@ -1,1 +1,1 @@
-{"open":false, "url":"http://showlive3.net/?code=P98K4w"}
+{"open":false, "url":"https://www.t8betvip.com/"}
